@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": mohamedPlays.aternos.me:42758
+    "port": 42758
     "version": "",
     "try-creative": false
   },
